@@ -8,3 +8,6 @@ fun reverseString(text: String): String {
     }
     return result
 }
+
+// Em kotlin, temos a extension ´reversed()´, que nos retorna a string invertida.
+// https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/reversed.html
